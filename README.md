@@ -12,9 +12,13 @@ Get the average, highest, and lowest grades, along with the names of the student
 This project is great for beginners to learn Java programming concepts like:
 
 ✅ Arrays
+
 ✅ Loops
+
 ✅ Conditional statements
+
 ✅ User input handling with Scanner
+
 ✅ Basic mathematical operations and formatted output
 
 🏗️ Features
@@ -39,7 +43,9 @@ Java JDK installed (Version 8 or higher)
 2️⃣ Steps
 Clone this repository or download the StudentGradeTracker.java file.
 Open a terminal in the folder where the file is saved.
+
 Compile the Java file:
+
 javac StudentGradeTracker.java
 java StudentGradeTracke
 
