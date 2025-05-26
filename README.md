@@ -1,6 +1,7 @@
-
 📊 Student Grade Tracker - Java Project
+
 🚀 Overview
+
 The Student Grade Tracker is a simple Java console application that helps track student grades. The user can:
 Enter the number of students.
 
@@ -9,6 +10,7 @@ Input each student’s name and grade.
 Get the average, highest, and lowest grades, along with the names of the students who achieved them.
 
 This project is great for beginners to learn Java programming concepts like:
+
 ✅ Arrays
 ✅ Loops
 ✅ Conditional statements
@@ -58,4 +60,5 @@ User input handling with Scanner
 Basic console output formatting
 
 📄 License
+
 This project is licensed under the MIT License.
