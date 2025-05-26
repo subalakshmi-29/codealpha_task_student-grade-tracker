@@ -64,7 +64,3 @@ Conditional logic (if statements)
 User input handling with Scanner
 
 Basic console output formatting
-
-📄 License
-
-This project is licensed under the MIT License.
