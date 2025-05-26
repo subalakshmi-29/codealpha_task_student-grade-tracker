@@ -1,8 +1,7 @@
-# codealpha_task_student-grade-tracker
+
 📊 Student Grade Tracker - Java Project
 🚀 Overview
 The Student Grade Tracker is a simple Java console application that helps track student grades. The user can:
-
 Enter the number of students.
 
 Input each student’s name and grade.
@@ -34,6 +33,7 @@ Lowest grade and the corresponding student’s name
 
 1️⃣ Requirements
 Java JDK installed (Version 8 or higher)
+
 2️⃣ Steps
 Clone this repository or download the StudentGradeTracker.java file.
 Open a terminal in the folder where the file is saved.
@@ -56,9 +56,6 @@ Conditional logic (if statements)
 User input handling with Scanner
 
 Basic console output formatting
-
-🌟 Contributing
-Contributions are welcome! If you’d like to add features like sorting grades, reading data from files, or adding a graphical user interface (GUI), feel free to open a pull request.
 
 📄 License
 This project is licensed under the MIT License.
